@@ -1,0 +1,17 @@
+{
+  "name": "toastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "RickLustri",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.0.2"
+  },
+  "dependencies": {
+    "toastify-js": "^1.12.0"
+  }
+}
