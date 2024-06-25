@@ -13,6 +13,7 @@ Toastify({
     background: "linear-gradient(to right, #000, #b30000)",
     color: "white",
     border: "1px solid #000",
+    borderRadius: "25px",
   },
 }).showToast();
 }
